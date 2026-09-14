@@ -1,5 +1,5 @@
 # 🌐 Web Dev Project
-<center><div></div><img src=""></div></center>
+<center><div></div><img src="https://raw.githubusercontent.com/codeudaan/WEB-DEV-PROJECTS/refs/heads/main/project1/intro.png"></div></center>
 > **Learn. Build. Practice. Grow. 🚀**
 
 Welcome to **Web Dev Project** — a practical web development learning repository focused on building projects from scratch and strengthening frontend development fundamentals.
