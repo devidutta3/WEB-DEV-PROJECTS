@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+
+    "tasks": [
+        {
+            "label": "🐍 Run Python Startup",
+            "type": "shell",
+            "command": "python project1/startup.py",
+            "problemMatcher": []
+        },
+
+        {
+            "label": "🚀 Start Development",
+            "dependsOn": [
+                "🐍 Run Python Startup"
+            ],
+            "dependsOrder": "sequence",
+            "problemMatcher": []
+        }
+    ]
+}
